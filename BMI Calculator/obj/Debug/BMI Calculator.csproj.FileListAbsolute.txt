@@ -1,0 +1,10 @@
+C:\Users\calvi\source\repos\BMI Calculator\bin\Debug\BMI Calculator.exe.config
+C:\Users\calvi\source\repos\BMI Calculator\bin\Debug\BMI Calculator.exe
+C:\Users\calvi\source\repos\BMI Calculator\bin\Debug\BMI Calculator.pdb
+C:\Users\calvi\source\repos\BMI Calculator\obj\Debug\BMI Calculator.csproj.AssemblyReference.cache
+C:\Users\calvi\source\repos\BMI Calculator\obj\Debug\BMI_Calculator.Form1.resources
+C:\Users\calvi\source\repos\BMI Calculator\obj\Debug\BMI_Calculator.Properties.Resources.resources
+C:\Users\calvi\source\repos\BMI Calculator\obj\Debug\BMI Calculator.csproj.GenerateResource.cache
+C:\Users\calvi\source\repos\BMI Calculator\obj\Debug\BMI Calculator.csproj.CoreCompileInputs.cache
+C:\Users\calvi\source\repos\BMI Calculator\obj\Debug\BMI Calculator.exe
+C:\Users\calvi\source\repos\BMI Calculator\obj\Debug\BMI Calculator.pdb
